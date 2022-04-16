@@ -1,4 +1,4 @@
-#TARPIG.SH
+# TARPIG.SH
 
 A quick script I built to take a client's drive image after I use ddrescue for recovery/backup, and then compress it for cold storage as per our SLA.
 
